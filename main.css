@@ -1,0 +1,56 @@
+/**********************************
+GENERAL STYLING
+**********************************/
+
+body {
+	margin: 0px;
+	font-family: frontage, sans-serif;
+}
+
+
+h1 {
+	text-align: center;
+}
+
+
+/**********************************
+
+**********************************/
+
+
+
+
+
+/**********************************
+
+**********************************/
+
+
+
+
+/**************************************
+FOOTERS
+***************************************/
+	
+
+#footer {
+	background-color: lightgrey;
+	text-align: center;
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	height: 4%;
+	padding-top: 1%;
+	clear: both;
+	padding: 20px 10px;
+	text-align: center;
+	width: 100%;
+}
+
+#footer p {
+	font-size: .9em;
+}
+
+.social-icon{
+	width: 3.5%;
+	height: auto;
+}
