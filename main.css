@@ -4,13 +4,15 @@ GENERAL STYLING
 
 body {
 	margin: 0px;
+	background: url('img/southernRespite.jpg');
+	background-size: cover;
 /*	font-family: frontage, sans-serif;*/
 }
 
 
 h1 {
 	text-align: center;
-	font-family: frontage, sans-serif;
+	font-family: Frontage, sans-serif;
 }
 
 
@@ -22,10 +24,47 @@ h1 {
 
 
 
+
+
+
+
+
+
+
 /**********************************
 
 **********************************/
 
+
+.navbar .navbar-brand {
+	color: rgba(255, 255 255, .85);
+	font-size: 1rem;
+	padding-top: .45rem;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+.nav {
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+}
+
+/**********************************
+ABOUT SECTION
+**********************************/
+
+.profilePhoto {
+
+	border-radius: 50%
+}
+
+#aboutHeading {
+	text-align: center;
+	font-family: Frontage, Arial, sans-serif;
+}
+
+#aboutText {
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	font-size: 1.2em;
+}
 
 
 
